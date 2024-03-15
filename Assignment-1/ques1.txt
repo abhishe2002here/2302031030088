@@ -1,0 +1,7 @@
+Steps of GITHUB:
+
+created account in github
+installed GIT in my device.
+Initialized empty git 
+commit first
+and pushed this question first into my repo.
